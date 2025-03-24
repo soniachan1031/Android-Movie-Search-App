@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Assignment2_Valentine_Shong</string>
+    <string name="rating_text">Rating: 6.6</string>
+    <string name="year_2025">Year: 2025</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="studio_n_a">Studio: N/A</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="search_for_a_movie">Search for a movie</string>
+    <string name="search">Search</string>
+    <string name="movie_poster_placeholder">Movie Poster Placeholder</string>
+    <string name="_2015">2015</string>
+    <string name="comedy_drama_romance">Comedy, Drama, Romance</string>
+    <string name="_90_min">90 min</string>
+    <string name="_6_6">6.6</string>
+    <string name="a_self_help_seminar_inspires_a_sixty_something_woman_to_romantically_pursue_her_younger_co_worker">
+        A self-help seminar inspires a sixty-something woman to romantically pursue her younger co-worker.</string>
+    <string name="go_back">Go Back</string>
+    <string name="movie_not_found">Movie not found</string>
+    <string name="no_details_available">No details available.</string>
+    <string name="placeholder_image_url">https://dummyimage.com/300x450/cccccc/000000?text=No+Image</string>
+    <string name="rating_8_2">Rating: 8.2</string>
+    <string name="year_2024">Year: 2024</string>
+    <string name="comedy_drama">Comedy • Drama</string>
+    <string name="_8_2">⭐ 8.2</string>
+    <string name="_2025">2025</string>
+    <string name="movie_list_description">List of searched movies</string>
+</resources>
