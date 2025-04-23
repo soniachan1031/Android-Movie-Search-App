@@ -2,6 +2,9 @@
 
 This app allows users to search for movies, browse results with posters and ratings, and view detailed information—powered by the OMDb API.
 
+<img width="140" alt="image" src="https://github.com/user-attachments/assets/9fc69906-ea5e-4e3a-a879-ece7f9010c80" />
+
+
 🚀 Technologies Used:
 Kotlin
 Android ViewModel + LiveData
