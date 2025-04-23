@@ -4,7 +4,7 @@ An Android app that lets users search for movies, view posters, ratings, and exp
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/9fc69906-ea5e-4e3a-a879-ece7f9010c80" width="300" />
-  <img src="https://github.com/user-attachments/assets/7b78c59c-85f1-4f75-bf9c-5cb1ce82367b" width="280" />
+  <img src="https://github.com/user-attachments/assets/7b78c59c-85f1-4f75-bf9c-5cb1ce82367b" width="290" />
 </p>
 
 ---
