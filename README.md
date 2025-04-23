@@ -1,4 +1,4 @@
-🎬Assignment 2 - Android Movie Search App with OMDb API | Kotlin + MVVM + Okhttp
+🎬Android Movie Search App with OMDb API | Kotlin + MVVM + Okhttp
 
 This app allows users to search for movies, browse results with posters and ratings, and view detailed information—powered by the OMDb API.
 
